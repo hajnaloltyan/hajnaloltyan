@@ -3,7 +3,7 @@
 
 - [DEMO LINK](https://hajnaloltyan.github.io/portfolio-react/)
 
-- 🔭 I’m currently working on **my Portfolio Projects**
+- 🔭 I’m currently studying **Full-Stack Webdevelopment at Microverse**
 
 - 💬 Ask me about **Javascript, React or Typescript**
 
