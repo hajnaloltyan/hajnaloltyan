@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hajnal</h1>
-<h3 align="center">A Junior Frontend Developer</h3>
+<h3 align="center">A Full-Stack Developer</h3>
 
 - [Portfolio](https://hajnaloltyan.github.io/portfolio-react/)
 
