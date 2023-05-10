@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hajnal</h1>
 <h3 align="center">A Full-Stack Developer</h3>
 
-- [Portfolio](https://hajnaloltyan.github.io/portfolio-react/)
+- 🌍 [Portfolio](https://hajnaloltyan.github.io/portfolio-react/)
 
 - 🔭 I’m currently studying **Full-Stack Webdevelopment at Microverse**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hajnalka.oltyan@gmail.com**
 
-- ⚡ Interesting fact **I have a Contemporary Art degree, and I love Nature Photography**
+- ⚡ Interesting fact **I have a Contemporary Art degree in 3D:Ceramics, Sculture, Photography and Digital Media, and I love Nature Photography**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
