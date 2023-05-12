@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Javascript, React or Typescript**
 
-- 📫 How to reach me **hajnalka.oltyan@gmail.com**
-
 - ⚡ Interesting fact **I have a Contemporary Art degree in 3D:Ceramics, Sculture, Photography and Digital Media, and I love Nature Photography**
 
 <h3 align="center">Languages and Tools:</h3>
@@ -26,7 +24,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hajnaloltyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hajnalka-oltyan" height="30" width="40" /></a>
-<a href="https://instagram.com/hajnaloltyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hajnaloltyan" height="30" width="40" /></a>
 </p>
 
 
