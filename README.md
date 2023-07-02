@@ -21,7 +21,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-![Visits Badge](https://badges.pufler.dev/visits/hajnaloltyan/hajnaloltyan)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhajnaloltyan&labelColor=%23f7ce00&countColor=%230d7fa5&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fhajnaloltyan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
