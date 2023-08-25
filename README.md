@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hajnal</h1>
 <h3 align="center">A Front End Developer</h3>
 
-- 🌍 [Portfolio](https://hajnaloltyan.github.io/portfolio-react/)
-
 - 🔭 I’m currently studying **Full-Stack Webdevelopment at Microverse**
 
 - 💬 Ask me about **Javascript, React or Typescript**
