@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hajnal</h1>
+<h1 align="center">Hi 👋, I'm Hajni</h1>
 <h3 align="center">A Front End Developer</h3>
 
 - 🔭 I’m currently studying **Full-Stack Webdevelopment at Microverse**
