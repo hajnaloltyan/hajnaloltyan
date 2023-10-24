@@ -4,8 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently learning Full-Stack Webdevelopment at Microverse<br><br>💬 Ask me about Javascript, React or Ruby<br><br>⚡ Interesting fact I have a Contemporary Art degree in 3D: Ceramics, Sculture, Photography and Digital Media, and I love Nature Photography
 
-
-[![](https://visitcount.itsvg.in/api?id=hajnaloltyan&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![Image of https://github.com/hajnaloltyan/counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/svg/profile/badge.svg)](https://github.com/hajnaloltyan/counter-badge)
 
 
 # 💻 Tech Stack:
