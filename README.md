@@ -16,6 +16,8 @@
 ---
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhajnaloltyan&labelColor=%23f7ce00&countColor=%230d7fa5&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fhajnaloltyan)
 
+[![](https://visitcount.itsvg.in/api?id=hajnaloltyan&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/hajnaloltyan" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
 
