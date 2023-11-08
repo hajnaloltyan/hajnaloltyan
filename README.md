@@ -7,7 +7,8 @@
 #### ⚡ Interesting fact I have a Contemporary Art degree in 3D: Ceramics, Sculture, Photography and Digital Media, and I love Nature Photography
 
 #### 📬 Connect with me on
-<a href="https://linkedin.com/in/hajnaloltyan" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
+<a href="https://linkedin.com/in/hajnaloltyan" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hajnalka.oltyan@gmail.com)
 
 # 💻 Tech Stack:
 ### Frontend Development:
