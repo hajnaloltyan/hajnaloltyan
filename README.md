@@ -33,6 +33,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hajnaloltyan&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhajnaloltyan&labelColor=%23f7ce00&countColor=%230d7fa5&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fhajnaloltyan)
+[![Image of https://github.com/hajnaloltyan/counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/svg/profile/badge.svg)](https://github.com/hajnaloltyan/counter-badge)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
