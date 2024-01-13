@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hajni</h1>
-<h3 align="center">A Front End Developer</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 # 💫 About Me:
 #### 🔭 I’m currently learning Full-Stack Webdevelopment at Microverse
-#### 💬 Ask me about Javascript, React or Ruby
+#### 💬 Ask me about Javascript, React or Ruby on Rails
 #### ⚡ Interesting fact I have a Contemporary Art degree in 3D: Ceramics, Sculture, Photography and Digital Media, and I love Nature Photography
 
 #### 📬 Connect with me on
@@ -21,7 +21,7 @@
   ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Deployment and Hosting:
-  ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+  ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Tools and Others:
   ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
