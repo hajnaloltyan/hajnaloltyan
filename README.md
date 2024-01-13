@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hajni</h1>
+<h1 align="center">Hi 👋, I'm Hayni</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
 # 💫 About Me:
